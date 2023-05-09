@@ -1,0 +1,3 @@
+C:/Users/narug/Desktop/build-sdl2-mixer-sample-master-MinGW-Debug/CMakeFiles/mole.dir
+C:/Users/narug/Desktop/build-sdl2-mixer-sample-master-MinGW-Debug/CMakeFiles/edit_cache.dir
+C:/Users/narug/Desktop/build-sdl2-mixer-sample-master-MinGW-Debug/CMakeFiles/rebuild_cache.dir

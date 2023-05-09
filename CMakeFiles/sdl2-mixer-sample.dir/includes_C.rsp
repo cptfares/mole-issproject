@@ -1,0 +1,1 @@
+-IC:/Users/narug/Desktop/sdl2-mixer-sample-master/include -isystem C:/SDL2-2.0.10/i686-w64-mingw32/include/SDL2 -isystem C:/SDL2_image-2.0.5/i686-w64-mingw32/include/SDL2 -isystem C:/SDL2_ttf-2.0.15/i686-w64-mingw32/include/SDL2 -isystem C:/SDL2_mixer-2.0.4/i686-w64-mingw32/include/SDL2 -isystem C:/SDL2_gfx-1.0.4/include/SDL2 
